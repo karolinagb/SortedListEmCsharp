@@ -1,0 +1,16 @@
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\bin\Debug\net5.0\SortedListEmCsharp.exe
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\bin\Debug\net5.0\SortedListEmCsharp.deps.json
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\bin\Debug\net5.0\SortedListEmCsharp.runtimeconfig.json
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\bin\Debug\net5.0\SortedListEmCsharp.runtimeconfig.dev.json
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\bin\Debug\net5.0\SortedListEmCsharp.dll
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\bin\Debug\net5.0\ref\SortedListEmCsharp.dll
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\bin\Debug\net5.0\SortedListEmCsharp.pdb
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\obj\Debug\net5.0\SortedListEmCsharp.csproj.AssemblyReference.cache
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\obj\Debug\net5.0\SortedListEmCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\obj\Debug\net5.0\SortedListEmCsharp.AssemblyInfoInputs.cache
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\obj\Debug\net5.0\SortedListEmCsharp.AssemblyInfo.cs
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\obj\Debug\net5.0\SortedListEmCsharp.csproj.CoreCompileInputs.cache
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\obj\Debug\net5.0\SortedListEmCsharp.dll
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\obj\Debug\net5.0\ref\SortedListEmCsharp.dll
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\obj\Debug\net5.0\SortedListEmCsharp.pdb
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedListEmCsharp\obj\Debug\net5.0\SortedListEmCsharp.genruntimeconfig.cache
