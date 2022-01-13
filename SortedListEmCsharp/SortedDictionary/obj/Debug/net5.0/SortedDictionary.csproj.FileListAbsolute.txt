@@ -1,0 +1,16 @@
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\bin\Debug\net5.0\SortedDictionary.exe
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\bin\Debug\net5.0\SortedDictionary.deps.json
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\bin\Debug\net5.0\SortedDictionary.runtimeconfig.json
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\bin\Debug\net5.0\SortedDictionary.runtimeconfig.dev.json
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\bin\Debug\net5.0\SortedDictionary.dll
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\bin\Debug\net5.0\ref\SortedDictionary.dll
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\bin\Debug\net5.0\SortedDictionary.pdb
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\obj\Debug\net5.0\SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\obj\Debug\net5.0\SortedDictionary.AssemblyInfoInputs.cache
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\obj\Debug\net5.0\SortedDictionary.AssemblyInfo.cs
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\obj\Debug\net5.0\SortedDictionary.csproj.CoreCompileInputs.cache
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\obj\Debug\net5.0\SortedDictionary.dll
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\obj\Debug\net5.0\ref\SortedDictionary.dll
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\obj\Debug\net5.0\SortedDictionary.pdb
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\obj\Debug\net5.0\SortedDictionary.genruntimeconfig.cache
+C:\projetos\SortedListEmCsharp\SortedListEmCsharp\SortedDictionary\obj\Debug\net5.0\SortedDictionary.csproj.AssemblyReference.cache
